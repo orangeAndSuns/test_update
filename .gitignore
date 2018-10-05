@@ -11,6 +11,7 @@ thumbs.db
 !.gitkeep
 .env
 package-lock.json
+electron-builder.yml
 
 #db
 ess-desktop.sqlite
